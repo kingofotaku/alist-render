@@ -4,7 +4,7 @@
   "port": 5244,
   "jwt_secret": "c10SoRzm",
   "token_expires_in": 48,
-  "site_url": "https://alist-ufk0.onrender.com,
+  "site_url": "https://alist-ufk0.onrender.com",
   "cdn": "",
   "database": {
     "type": "mysql",
